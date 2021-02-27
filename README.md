@@ -112,6 +112,7 @@ As such, the rest of the document serves as a simple specification for how reque
 ### Related repositories
 
 - [image2svg-awesome](https://github.com/fromtheexchange/image2svg-awesome)
+- [image2svg-client](https://github.com/fromtheexchange/image2svg-client)
 - [image2svg-imagetracerjs](https://github.com/fromtheexchange/image2svg-imagetracerjs)
 - [image2svg-potrace](https://github.com/fromtheexchange/image2svg-potrace)
 - [image2svg-primitive](https://github.com/fromtheexchange/image2svg-primitive)
