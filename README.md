@@ -96,6 +96,8 @@ To host your own converter online, check out the open source specifications and 
   - Free for Mac
 - [RapidResizer](https://online.rapidresizer.com/tracer.php)
   - Free for Web
+- [Raster Retrace](https://crates.io/crates/raster-retrace)
+  - Free for Mac/Win/Lnx
 - [vectorization.eu](http://vectorization.eu/)
   - Free for web
 - [Vectorization.org](https://www.vectorization.org/)
