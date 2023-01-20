@@ -104,6 +104,8 @@ To host your own converter online, check out the open source specifications and 
   - Free for Web
 - [Vectornator](https://www.vectornator.io/learn/images)
   - Free for Mac/iOS/iPad
+- [VTracer](https://www.visioncortex.org/vtracer/)
+  - Free for Web/Mac/Win/Lnx
 
 I’m always looking for [more](https://en.wikipedia.org/wiki/Comparison_of_raster-to-vector_conversion_software) [alternative](https://alternativeto.net/software/potrace/) vectorization software! Create a GitHub issue and I’ll add it to the list.
 
