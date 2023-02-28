@@ -68,6 +68,8 @@ To host your own converter online, check out the open source specifications and 
 
 - [Adobe Capture: Creative Kit](https://apps.apple.com/us/app/adobe-capture-creative-kit/id1040200189)
   - Free for iOS/iPad
+- [autosvg](https://github.com/anuj-kosambi/autosvg)
+  - Free for web
 - [Autotrace](https://github.com/autotrace/autotrace)
   - Free for Mac/Win/Lnx
 - [autotracer.org](https://www.autotracer.org/)
