@@ -94,6 +94,8 @@ To host your own converter online, check out the open source specifications and 
   - Free for Win
 - [Photopea](https://www.photopea.com/tuts/vectorize-raster-images/)
   - Free for Web
+- [Pixels to SVG](https://codepen.io/shshaw/pen/XbxvNj)
+  - Free for Web
 - [primitive.lol](https://primitive.lol/)
   - Free for Mac
 - [RapidResizer](https://online.rapidresizer.com/tracer.php)
