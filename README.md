@@ -69,7 +69,7 @@ To host your own converter online, check out the open source specifications and 
 - [Adobe Capture: Creative Kit](https://apps.apple.com/us/app/adobe-capture-creative-kit/id1040200189)
   - Free for iOS/iPad
 - [autosvg](https://github.com/anuj-kosambi/autosvg)
-  - Free for web
+  - Free for Web
 - [Autotrace](https://github.com/autotrace/autotrace)
   - Free for Mac/Win/Lnx
 - [autotracer.org](https://www.autotracer.org/)
@@ -102,8 +102,10 @@ To host your own converter online, check out the open source specifications and 
   - Free for Web
 - [Raster Retrace](https://crates.io/crates/raster-retrace)
   - Free for Mac/Win/Lnx
+- [SVGcode](https://svgco.de/)
+  - Free for Web
 - [vectorization.eu](http://vectorization.eu/)
-  - Free for web
+  - Free for Web
 - [Vectorization.org](https://www.vectorization.org/)
   - Free for Web
 - [Vectornator](https://www.vectornator.io/learn/images)
