@@ -102,6 +102,8 @@ To host your own converter online, check out the open source specifications and 
   - Free for Web
 - [Raster Retrace](https://crates.io/crates/raster-retrace)
   - Free for Mac/Win/Lnx
+- [SaveSVG](https://savesvg.com/)
+  - Free for Web
 - [SVGcode](https://svgco.de/)
   - Free for Web
 - [vectorization.eu](http://vectorization.eu/)
