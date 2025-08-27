@@ -57,6 +57,8 @@ To host your own converter online, check out the open source specifications and 
   - $10/mo
 - [Vector Queue](http://vectorqueue.com/)
   - $6 for Mac
+- [VectorEZ](https://asteridesoftware.com/vectorizer/home)
+  - $21 for Mac/Win
 - [Vectorize](https://www.syniumsoftware.com/vectorize)
   - $9 for Mac
 - [vectorizer](https://www.vectorizer.io/)
