@@ -1,8 +1,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Awesome PNG to SVG
+# Awesome Image to SVG
 
-PNG to SVG is all about image tracing and vectorization—the conversion of a raster image (jpg/png) to a vector image (svg).
+Image to SVG is all about image tracing and vectorization—the conversion of a raster image (jpg/png) to a vector image (svg).
 
 ## Apps
 
