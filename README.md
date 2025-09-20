@@ -223,7 +223,7 @@ function ImageInput() {
 
 To support the continued development of this project, consider donating.
 
-<a href="https://www.buymeacoffee.com/fromtheexchange"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=fromtheexchange&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.buymeacoffee.com/fromtheexchange"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=fromtheexchange&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 - ~Add support for color images~
 - Plugins for Sketch, Figma, and Adobe XD
