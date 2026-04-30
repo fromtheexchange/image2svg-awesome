@@ -4,15 +4,7 @@
 
 Image to SVG is all about image tracing and vectorization—the conversion of a raster image (jpg/png) to a vector image (svg).
 
-## Apps
-
-If you are overwhelmed by the variety of options, the general consensus is:
-
-- Vector Magic is the gold standard at $300
-- Potrace is the open source champ for monochrome images
-- Inkscape is the best free app option for color images (built on potrace)
-- Mac apps like Super Vectorizer are a decent value for money at $40
-- Getting an Adobe Illustrator subscription solely for image tracing is hard to justify financially at $240/yr
+## Notes
 
 For best results with low resolution images, preprocess them with [an](https://www.stickermule.com/) [AI](https://icons8.com/upscaler) [image](https://topazlabs.com/gigapixel-ai/) [upscaler](https://www.npmjs.com/package/upscaler), and then vectorize them.
 
