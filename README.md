@@ -29,9 +29,6 @@ To host your own converter online, check out the open source specifications and 
 - [CorelDRAW Graphics Suite 2020](https://www.coreldraw.com/en/tips/design/art/vectorize-an-image/)
   - $500 license for Mac/Win
   - $20.75/mo for Mac/Win
-- [DMesh Pro](http://dmesh.thedofl.com/)
-  - $10 for Mac
-  - Light version available
 - [EZImageVectorizer](https://blacknook.github.io/BlackNook/Page_EZImageVectorizer.html)
   - $10 for Mac
 - [Graphic Powers](https://www.graphicpowers.com/)
@@ -65,6 +62,8 @@ To host your own converter online, check out the open source specifications and 
   - $5/mo for Web
 - [VectorStyler](https://www.vectorstyler.com/documentation/exporting/tracing/)
   - $100/yr for Mac/Win
+- [VectoSolve](https://vectosolve.com)
+  - Starts at $5/mo or $5 credit pack for Web
 
 ### Free alternatives
 
@@ -82,7 +81,11 @@ To host your own converter online, check out the open source specifications and 
   - Free for Web
 - [Geometrize](https://www.geometrize.co.uk/)
   - Free for Mac/Win/Lnx
+- [Glyphtracy](https://github.com/simoncozens/glyphtracy)
+  - Free for Mac/Win/Lnx/Web
 - [imagetracerjs](https://github.com/jankovicsandras/imagetracerjs)
+  - Free for Mac/Win/Lnx
+- [img2bez](https://github.com/eliheuer/img2bez)
   - Free for Mac/Win/Lnx
 - [Inkscape](https://inkscape.org/)
   - Free for Mac/Win/Lnx
@@ -112,10 +115,12 @@ To host your own converter online, check out the open source specifications and 
   - Free for Web
 - [Vectorization.org](https://www.vectorization.org/)
   - Free for Web
+- [Vectorizer](https://github.com/neplextech/vectorizer)
+  - Free for Mac/Win/Lnx
 - [Vectornator](https://www.vectornator.io/learn/images)
   - Free for Mac/iOS/iPad
 - [VTracer](https://www.visioncortex.org/vtracer/)
-  - Free for Web/Mac/Win/Lnx
+  - Free for Web/Mac/Win/Lnx 
 
 I’m always looking for [more](https://en.wikipedia.org/wiki/Comparison_of_raster-to-vector_conversion_software) [alternative](https://alternativeto.net/software/potrace/) vectorization software! Create a GitHub issue and I’ll add it to the list.
 
