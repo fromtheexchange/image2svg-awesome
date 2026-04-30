@@ -87,6 +87,8 @@ To host your own converter online, check out the open source specifications and 
   - Free for Mac/Win/Lnx
 - [img2bez](https://github.com/eliheuer/img2bez)
   - Free for Mac/Win/Lnx
+- [Img2Num](https://github.com/Ryan-Millard/Img2Num)
+  - Free for Mac/Win/Lnx/Web
 - [Inkscape](https://inkscape.org/)
   - Free for Mac/Win/Lnx
 - [Intaglio Vectorize](https://web.archive.org/web/20180819005858/http://www.purgatorydesign.com/Vectorize/index.html)
