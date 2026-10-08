@@ -103,6 +103,8 @@ To host your own converter online, check out the open source specifications and 
   - Free for Mac/Win/Lnx
 - [SaveSVG](https://savesvg.com/)
   - Free for Web
+- [Sticraft](https://sticraft.com/vectorizer)
+  - Free for Web
 - [SVGcode](https://svgco.de/)
   - Free for Web
 - [vectorization.eu](http://vectorization.eu/)
