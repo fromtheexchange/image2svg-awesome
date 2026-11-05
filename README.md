@@ -42,6 +42,7 @@ To host your own converter online, check out the open source specifications and 
 - [TracedLines](https://apps.apple.com/us/app/tracedlines/id1421960922)
   - $10 for Mac
 - [Vector Magic](https://vectormagic.com/)
+- [Pic2Vector](https://pic2vector.com/) - Free in-browser PNG/JPG/WebP to SVG converter (vtracer + WebAssembly; files never upload).
   - $300 license for Mac/Win/Web
   - $10/mo
 - [Vector Queue](http://vectorqueue.com/)
